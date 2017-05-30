@@ -1,7 +1,7 @@
 {
 	"name": "easy-bluetooth-le",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A Library for easy implementation of Serial Bluetooth Low Energy on React Native.",
 	"private": false,
 	"repository": {
 		"type": "git",
