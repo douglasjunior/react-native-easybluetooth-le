@@ -1,4 +1,4 @@
-# react-native-easybluetooth-le
+# Easy Bluetooth LE
 
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/douglasjunior/react-native-easybluetooth-le/blob/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/easy-bluetooth-le.svg)](https://www.npmjs.com/package/easy-bluetooth-le)
