@@ -116,7 +116,7 @@ componentWillUnmount() {
 
 1. Run in console:
    ```bash
-   npm i -s easy-bluetooth-le
+   npm i -S easy-bluetooth-le
    ```
 
 2. Link:
