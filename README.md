@@ -8,6 +8,7 @@ A Library for easy implementation of Serial Bluetooth Low Energy on React Native
 
 ## Requirements
 
+- React Native >= 0.40.0
 - Android 4.3 (API 18)
 - *iOS soon...*
 
