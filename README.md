@@ -1,10 +1,12 @@
-# Easy Bluetooth LE
+# Easy Bluetooth Low Energy
 
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/douglasjunior/react-native-easybluetooth-le/blob/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/easy-bluetooth-le.svg)](https://www.npmjs.com/package/easy-bluetooth-le)
 [![npm downloads](https://img.shields.io/npm/dt/easy-bluetooth-le.svg)](#install)
 
 A Library for easy implementation of Serial Bluetooth Low Energy on React Native. 💙
+
+_Looking for **Bluetooth Classic**? [Look here](https://github.com/douglasjunior/react-native-easybluetooth-classic)._
 
 ## Requirements
 
